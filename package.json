@@ -1,0 +1,22 @@
+{
+  "name": "Scrim-s0tev3cect",
+  "description": "https://v2.scrimba.com/s0tev3cect",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack",
+    "start": "webpack serve --mode development"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7",
+    "babel-loader": "^8.3.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
+  }
+}
